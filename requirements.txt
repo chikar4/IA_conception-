@@ -1,0 +1,7 @@
+anthropic
+faster-whisper
+pyttsx3
+sounddevice
+numpy
+keyboard
+python-dotenv
