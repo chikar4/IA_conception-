@@ -109,3 +109,4 @@ class Brain:
             return func(**tool_input)
         except Exception as exc:
             return f"Erreur lors de l'execution de l'outil {name} : {exc}"
+
